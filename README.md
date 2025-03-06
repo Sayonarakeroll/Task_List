@@ -3,12 +3,13 @@
 API para gerenciamento de tarefas utilizando Spring Boot e documentação com Swagger.
 
 ## 🔗 Tecnologias Utilizadas
-- Java 17
-- Spring Boot 3.x
-- Spring Data JPA
-- H2 Database
-- Swagger OpenAPI
-- Lombok
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![H2 Database](https://img.shields.io/badge/H2-003B57?style=for-the-badge&logo=h2&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-4DC820?style=for-the-badge&logo=lombok&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ## 🛠️ Configuração do Projeto
 
